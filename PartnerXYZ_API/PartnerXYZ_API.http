@@ -1,0 +1,6 @@
+@PartnerXYZ_API_HostAddress = http://localhost:5204
+
+GET {{PartnerXYZ_API_HostAddress}}/partnerxyz/
+Accept: application/json
+
+###
